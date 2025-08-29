@@ -1,38 +1,46 @@
-<div>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=35&lines=Hi+there,+I'm+João%F0%9F%91%8B;Software+Developer;C/C%2B%2B+|+Java+|+JavaScript;Clean+code+%26+Performance+code;" alt="Headline" />
+<div align="center">
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+João+👋;Software+Developer;C/C+++|+Java+|+JavaScript;Clean+Code+%26+High+Performance" alt="Headline" />
+
+  <!-- Badges -->
+  <p>
+    <a href="https://gitlab.com/joaoatpre" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/jao.antpre" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
   </p>
 
   <hr/>
 
-  <p align="center">
-    <a href="https://gitlab.com/joaoatpre" target="_blank">
-      <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
-    </a>
-    <a href="https://instagram.com/jao.antpre" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-    </a>
-  </p>
-
-  ### About me
-
-  I'm a tech enthusiast focused on continuous learning and collaboration. I aim to contribute to open-source projects while sharpening my development skills, and I'm always looking for new challenges, whether through personal projects or by engaging with the developer community.
+  <!-- About Me -->
+  ### 🚀 About Me
+  Tech enthusiast passionate about **learning, building, and collaborating**.
+  I love working on challenging problems, contributing to open-source, and constantly sharpening my development skills.
 
   <br/>
 
-  ## Rapidfire
-
-  - 🔭 Currently working on Java and backend personal projects  
-  - 🌱 Learning C and C++ for systems-level understanding
-
-  </div>
+  <!-- Quick Facts -->
+  ## ⚡ Quick Facts
+  🔭 Currently studying **AWS Cloud & DevOps practices**
+  🌱 Learning **C & C++** for systems-level development
+  💡 Strong believer in **clean & performant code**
+  🤝 Open to collaborate on **open-source & innovative projects**
 
   <br/>
 
-  ## GitHub Stats
-
+  <!-- GitHub Stats -->
+  ## 📊 GitHub Stats
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaoatpre&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoatpre&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="45%"  alt="joaoatpre" />
+    <img src="https://github-readme-stats.vercel.app/api?username=joaoatpre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6FDA44&icon_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoatpre&layout=compact&hide_border=true&title_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
   </div>
+
+  <br/>
+
+  <!-- Snake animation -->
+  ![Snake animation](https://github.com/joaoatpre/joaoatpre/blob/output/github-contribution-grid-snake.svg)
+
 </div>
