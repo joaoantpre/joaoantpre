@@ -3,16 +3,6 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+João+👋;Software+Developer;C/C+++|+Lua+|+JS;Clean+Code+%26+High+Performance" alt="Headline" />
 
-  <!-- Badges -->
-  <p>
-    <a href="https://gitlab.com/joaoatpre" target="_blank">
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/jao.antpre" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
-
   <hr/>
 
   <!-- About Me -->
