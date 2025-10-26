@@ -33,8 +33,8 @@
   <!-- Stats -->
   ## 📊 GitHub
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaoatpre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6FDA44&icon_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoatpre&layout=compact&hide_border=true&title_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=joaoantpre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6FDA44&icon_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoantpre&layout=compact&hide_border=true&title_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
   </div>
 
   <br/>
