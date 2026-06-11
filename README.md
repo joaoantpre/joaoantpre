@@ -1,53 +1,72 @@
+**Information Systems Student** • **Backend Developer**
+
+---
+
+## About Me
+
+I'm an Information Systems student passionate about technology and software development. I enjoy solving problems through efficient code and continuously improving my technical skills by building practical projects.
+
+My main focus is backend development, automation, and creating scalable solutions with performance and clean architecture in mind.
+
+* Information Systems Student
+* Passionate about Backend Development
+* Interested in performance optimization
+* Always learning new technologies
+* Open Source enthusiast
+
+---
+
+# Technologies & Tools
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+---
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+---
+
+# Stats
+
 <div align="center">
 
-  <!-- Hero / Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+João+👋;Software+Developer;Clean+Code+%26+High+Performance" alt="Headline" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joaoantpre&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <br/>
+<br>
 
-  <!-- Badges -->
-  <p>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/joaoantpre?label=follow&style=for-the-badge&color=6FDA44&logo=github">
-    <img alt="Top language" src="https://img.shields.io/badge/top%20lang-C%2FC%2B%2B-blue?style=for-the-badge&color=0366d6">
-    <img alt="Learning" src="https://img.shields.io/badge/learning-AWS%20%26%20DevOps-orange?style=for-the-badge&color=ff7b00">
-  </p>
-
-  <hr style="border:0.5px solid #222; width:90%;"/>
-
-  <!-- About -->
-  ## 🚀 About Me
-  - Tech enthusiast focused on **learning, building, and collaborating**.
-  - Main interests: clean code, performance, and low-level systems.
-
-  <br/>
-
-  <!-- Quick facts -->
-  ### ⚡ Highlights
-  - 🔭 Studying **AWS Cloud & DevOps**
-  - 🌱 Learning **C & C++** for system-level development
-  - 💡 Advocate of **clean & performant code**
-  - 🤝 Open to collaborate on open-source projects
-
-  <br/>
-
-  <!-- Stats -->
-  ## 📊 GitHub
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=joaoantpre&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6FDA44&icon_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoantpre&layout=compact&hide_border=true&title_color=6FDA44&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
-  </div>
-
-  <br/>
-
-  <!-- Contact -->
-  ### 📫 Contato
-  - Email: `joaoantpre@email.com`
-  - Discord: `jao.antpre`
-
-  <br/>
-
-  <hr style="border:0.5px solid #222; width:90%;"/>
-
-  <sub>✨ Always optimizing for performance and readability.</sub>
+<img width="87%" src="https://streak-stats.demolab.com?user=joaoantpre&theme=github-dark&hide_border=true"/>
 
 </div>
+
+---
+
+# Currently Learning
+
+* Cloud Computing
+* Amazon Web Services (AWS)
+* DevOps
+* Software Architecture
+
+---
+
+# Contact
+
+* Email: **[joaoantpre@gmail.com](mailto:joaoantpre@gmail.com)**
+* LinkedIn: **linkedin.com/in/joaoatp**
