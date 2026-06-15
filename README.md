@@ -69,4 +69,4 @@ My main focus is backend development, automation, and creating scalable solution
 # Contact
 
 * Email: **[joaoantpre@gmail.com](mailto:joaoantpre@gmail.com)**
-* LinkedIn: **linkedin.com/in/joaoatp**
+* LinkedIn: **[linkedin.com/in/joaoatp](https://linkedin.com/in/joaoatp)**
